@@ -14,7 +14,7 @@
 To use Qalma effectively, you'll need:
 
 ### 🧠 [NPG Lite (Neuro PlayGround Lite)](https://www.crowdsupply.com/upside-down-labs/neuro-playground-lite)
-A BLE-enabled open-source biopotential signal board designed for:
+A BLE-enabled biopotential signal board designed for:
 
 - ✅ EEG (Electroencephalogram)
 - ✅ ECG (Electrocardiogram)
@@ -100,20 +100,43 @@ Handled in **Web Workers** to ensure real-time performance:
 
 ## 💻 Code Structure
 
+*(Add your code structure details here)*
+
+---
+
 ## 🎨 UI/UX Highlights
 
-- **Tailwind CSS** for styling
-- **Light/Dark modes** for visual comfort
-- **Responsive animations** for real-time feedback
-- **Radar plots, progress bars, symmetry meters** for clarity
+- **Tailwind CSS** for styling  
+- Light/Dark modes for comfort  
+- Responsive animations for feedback  
+- Radar plots, progress bars, symmetry meters for clarity
+
+---
 
 ## 📦 Technologies Used
 
-- **Frontend**: Next.js, React, TypeScript
-- **Visualization**: WebGL, Recharts
-- **Data Streaming**: Web Bluetooth API (BLE)
-- **Performance**: Web Workers
-- **Styling**: Tailwind CSS
+- **Frontend:** Next.js, React, TypeScript  
+- **Visualization:** WebGL (webgl-plot), Recharts  
+- **Data Streaming:** Web Bluetooth API (BLE)  
+- **Performance:** Web Workers  
+- **Styling:** Tailwind CSS  
+
+---
+
+## 🧩 Credits
+
+Built with great open-source tools and libraries:
+
+- Next.js, React, TypeScript  
+- Tailwind CSS, Framer Motion, Lucide React  
+- Radix UI components (`accordion`, `dialog`, `popover`, etc.)  
+- Recharts, webgl-plot for visualization  
+- Embla Carousel for UI interactions  
+- ESLint, PostCSS, and DefinitelyTyped type definitions
+
+Thanks to all the amazing open-source communities!
+
+---
 
 ## 🧠 Summary Comparison Table
 
