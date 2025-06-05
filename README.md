@@ -138,12 +138,6 @@ Handled in **Web Workers** to ensure real-time performance:
 
 ---
 
-## 🤝 Contributing
-
-Qalma is open to collaboration, creativity, and curiosity.
-
-Whether you're a neuroscientist, developer, designer, or just deeply curious about the mind—you're welcome here.
-
 ## 📽️ YouTube Demo
 
 Coming soon!
@@ -155,3 +149,17 @@ Coming soon!
 ## 📝 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Thank you for your interest in contributing — your support helps shape the future of Chords-Web and Qalma. 🙌
+
+At Qalma, we celebrate collaboration, curiosity, and creativity.
+
+Whether you're a neuroscientist, developer, designer, or simply someone deeply fascinated by the mind and inner states — there's a place for you here. Let's build meaningful, mindful experiences together.
+
+<center>
+<a href="https://github.com/Ritika8081/Meditation_Medusa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ritika8081/Meditation_Medusa" />
+</a>
+</center>
