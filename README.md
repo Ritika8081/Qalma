@@ -175,7 +175,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🤝 Contributing
 
-Thank you for your interest in contributing — your support helps shape the future of Chords-Web and Qalma. 🙌
+Thank you for your interest in contributing — your support helps shape the future of Qalma. 🙌
 
 At Qalma, we celebrate collaboration, curiosity, and creativity.
 
