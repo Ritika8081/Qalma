@@ -165,7 +165,11 @@ Coming soon!
 
 ---
 
-💫 Built with love, neurons, and a sprinkle of curiosity by [Ritika Mishra](https://github.com/Ritika8081) – decoding mindfulness, brainwave and heartwave.
+## Author
+
+💫 Built with love, neurons, and a sprinkle of curiosity by [Ritika Mishra](https://github.com/Ritika8081) — decoding mindfulness, brainwaves, and heartwaves.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ritika-mishra-a965251bb/)
+
 
 ## 📝 License
 
@@ -173,7 +177,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🤝 Contributing
 
-Thank you for your interest in contributing — your support helps shape the future of Chords-Web and Qalma. 🙌
+Thank you for your interest in contributing — your support helps shape the future of Qalma. 🙌
 
 At Qalma, we celebrate collaboration, curiosity, and creativity.
 
